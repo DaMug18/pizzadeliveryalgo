@@ -1,0 +1,12 @@
+1. Pick a pizza delivery place
+	a. Look up promo codes
+	b. Compare best deals
+2. Open app
+3. Decide on type of pizza
+4. Review order
+5. Choose payment method
+6. Order pizza
+7. Wait
+8. Open the door
+	a. Pay for pizza with cash
+	b. Tip your pizza delivery person
